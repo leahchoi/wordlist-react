@@ -1,0 +1,14 @@
+.totalWords {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    background-color: #333;
+}
+
+.totalWords>p {
+    color: white;
+}
+
+.totalWords > p:first-child {
+    color: #e67e22
+}

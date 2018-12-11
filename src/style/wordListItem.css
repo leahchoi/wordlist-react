@@ -1,0 +1,11 @@
+.wordlist {
+    list-style-type: none;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.wordlist > li {
+    height: 80px;
+    vertical-align: middle;
+    font-size: 2rem;
+}
